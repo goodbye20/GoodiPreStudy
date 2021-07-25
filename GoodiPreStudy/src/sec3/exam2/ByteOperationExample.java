@@ -3,8 +3,19 @@ package sec3.exam2;
 public class ByteOperationExample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		byte result1 = 10 + 20;
+		
+		byte x = 10;
+		byte y = 20;
+		int result = x + y;
+		
+		byte x2 = 30;
+		long y2 = 40;
+		long result2 = x2 + y2;
+		
+		
+		
 	}
 
 }
