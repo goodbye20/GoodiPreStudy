@@ -1,4 +1,4 @@
-package sec3;
+package sec03;
 
 public class CastingExample {
 	public static void main(String[] args) {

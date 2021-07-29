@@ -1,4 +1,4 @@
-package sec1;
+package sec01;
 
 public class VariableInitialztionEx4 {
 	public static void main(String[] args) {

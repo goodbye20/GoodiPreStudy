@@ -1,4 +1,4 @@
-package sec2;
+package sec02;
 
 public class EscapeExam {
 	public static void main(String[] args) {
